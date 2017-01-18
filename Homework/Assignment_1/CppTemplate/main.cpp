@@ -21,11 +21,6 @@ using namespace std;
 
 //Executable code begins here!!!
 int main(int argc, char** argv)
-{  cout << "Angela Gomez\n";
-cout << "7600 Ambergate Pl\n";
-cout << "Riverside\n";
-cout <<"California\n";
-cout <<"92504\n";
-cout <<"951-207-6162\n";
+{ 
  
 }
